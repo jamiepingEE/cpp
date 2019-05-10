@@ -1,3 +1,5 @@
+//1.1 write a program to find the sum of digits of a positive integer
+
 #include <iostream>
 using namespace std;
 
