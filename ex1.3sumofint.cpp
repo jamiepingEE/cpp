@@ -1,3 +1,5 @@
+//1.3 write a program to find the incremental sum of an integer N+(N+1)+...
+
 #include <iostream>
 using namespace std;
 
