@@ -1,3 +1,6 @@
+//1.5 write a program to return the total tax depending on 1 of 3 income brackets
+//personal challenge: without boolean operators
+
 #include <iostream>
 using namespace std;
 
