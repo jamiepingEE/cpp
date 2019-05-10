@@ -1,3 +1,5 @@
+//1.4 write a program to return the amount of bills(100,20,10,5) and loonies
+
 #include <iostream>
 using namespace std;
 
