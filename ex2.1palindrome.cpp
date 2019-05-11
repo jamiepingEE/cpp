@@ -1,7 +1,6 @@
 //2.1 Write a program to detect 5-digit integer palindromes
 
 #include <iostream>
-#include <cmath>
 using namespace std;
 
 int main(){
