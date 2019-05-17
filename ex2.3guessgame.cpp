@@ -1,3 +1,5 @@
+//2.3 write a guessing game that adds two randomly generated dice rolls from a user input seed. 
+//First wrong odd guess gets a higher/lower than hint. odd gets 2 tries, even gets 3 tries.
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
