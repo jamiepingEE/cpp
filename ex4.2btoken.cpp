@@ -1,3 +1,4 @@
+//4.2 write a program to print words but omit text delimiters
 #include <iostream>
 #include <string>
 using namespace std;
