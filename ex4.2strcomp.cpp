@@ -1,3 +1,4 @@
+//4.2 write a program to compare the length of 2 user input strings
 #include <iostream>
 #include <string> //want to use cin.getline(var2ptr,len,delimit)
 using namespace std;
